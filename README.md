@@ -1,4 +1,4 @@
-## Dimensionality_Reduction_Agricultural_Plan_Health
+## Dimensionality_Reduction_Agricultural_Plant_Health
 This repository contains code and data to replicate the experiments from the paper “Studying the impact of dimensionality reduction on machine learning and deep learning prediction of agricultural plant health.” It includes Deep Learning training pipelines, classic Machine Learning baselines, and processed data used for benchmarking.
 
 ## Repo structure
